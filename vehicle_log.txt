@@ -1,0 +1,8 @@
+ID	Speed(km/h)	Direction
+2	121.99	OUT
+8	113.62	IN
+6	115.02	OUT
+9	101.64	IN
+10	79.07	IN
+11	90.25	IN
+13	140.88	OUT
